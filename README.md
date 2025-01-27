@@ -1,7 +1,5 @@
 # Fetch Data analysis excercise
 
-# Executing the files for the assignment
-
 # First: explore the data
 
 For this section,  1) Launch the **Fetch_data_analysis.ipynb** file in jupyter notebook
