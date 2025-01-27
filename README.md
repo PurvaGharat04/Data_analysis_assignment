@@ -2,7 +2,7 @@
 
 # First: explore the data
 
-For this section,  1) Launch the **Fetch_data_analysis.ipynb** file in jupyter notebook
+For this section,  1) Launch the **Fetch_data_analysis.ipynb** file in jupyter notebook.
 2) Replace the file path as per your local path where the csv files are located for 3 files in this lines code **df = pd.read_csv('C:/Users/purva/Documents/Fetch_data_analysis_excercise/data/TRANSACTION.csv')**
 3) Run the file in your local machine to view analysis performed.
 4) In the end 3 csv files will be generated, which represents cleaned dataset
