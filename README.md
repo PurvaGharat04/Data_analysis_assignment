@@ -10,7 +10,7 @@
 # Second: provide SQL queries
 
 1) Create a new database eg: "Fetch_data_analysis" in your SQL Server Management Studio
-2) Import the 3 csv files into database by right clicking on DB --> Tasks --> Import Flat file. Each files should be imported successfully. The cleaned files that needs to be imported can be accessed from this github repo in this path **path** else it can also be accessed in your local repo after python file is executed.
+2) Import the 3 csv files into database by right clicking on DB --> Tasks --> Import Flat file. Each files should be imported successfully. The cleaned files that needs to be imported can be accessed in your local repo after python file is executed.
 3) After that execute the queries that are present in the file **Fetch_SQL_queries.sql** in the session that is open currently for your database.
 4) **SQL_queries_output.pdf** has word doc representing the output of the queries that I achieved after executing in my local machine.
    
